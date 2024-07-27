@@ -1,5 +1,5 @@
 # AliExpress Clone
-
+A clone of AliExpress built with Vue.js, Vuex, and Nuxt, leveraging TypeScript for type safety. The project utilizes Nuxt.js for server-side rendering and static site generation, enhancing SEO and performance. It uses Prisma for ORM and Supabase for the backend, styled with Tailwind CSS. The project is containerized using Docker.
 ```
 git clone https://github.com/almoghindi/AliExpress-clone.git
 
