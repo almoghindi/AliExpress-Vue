@@ -12,6 +12,10 @@ npx prisma generate
 npm run dev
 ```
 
+Using Docker
+```
+docker-compose up --build
+```
 You'll have to setup a Supabase account & Stripe account, then add all of the details in to your .env file.
 
 Once you've connected your application to Supabase. You'll also need to setup the Auth Providers:
